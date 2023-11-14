@@ -1,8 +1,7 @@
-# Deep-learning-assignment-2
+# Deep Learning Assignment 2
 
+The dataset is split into two columns: one with the URLs for the different gifs and another with descriptions of the gifs. We only use the gifs to train the model but have the descriptions to ensure that the code reads the correct URL.
 
-The dataset is split into two columns one with the URL's for the different gifs and one with a description of the gifs 
-We only use the gifs to train the model but have the description to make sure that the codes reads the right URL
+The data used to calculate the gradient descent is self-generated data that illustrates the relationship between housing prices and the acreage of the house.
 
-
-The steb by steb proceses is explained in the notebook
+The step-by-step process is explained in the notebook.
